@@ -1,3 +1,4 @@
 .env
 venv
-Embeddings/*
+Embeddings/embedding.ipynb
+Embeddings/huggingFace.ipynb
